@@ -1,8 +1,6 @@
-```markdown
-# Vue 3 + Vite
 
 # Deseretedu Prototypes
-
+## Vue 3 + Vite
 Prototipos para un sistema **SaaS modular** orientado a la administración de **colegios pequeños**.  
 Incluye módulos para **pagos, calificaciones e inscripciones**.
 
